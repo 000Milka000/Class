@@ -51,3 +51,6 @@ class D {
 
 let asda = new D(2,5);
 asda.asd();
+console.log("123")
+console.log("456")
+console.log("789")
