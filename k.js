@@ -30,7 +30,7 @@ nissan.ccc();
 
 console.log("___")
 
-let infinity = new Car("Infinity", 2);
-infinity.ccc();
+let inf = new Car("Infinity", 2);
+inf.ccc();
 
 console.log("___")
