@@ -34,3 +34,5 @@ let infinity = new Car("Infinity", 2);
 infinity.ccc();
 
 console.log("___")
+console.log("___")
+console.log("___")
