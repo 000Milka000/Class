@@ -51,3 +51,10 @@ class D {
 
 let asda = new D(2,5);
 asda.asd();
+
+console.log("___")
+console.log("___")
+console.log("___")
+console.log("___")
+console.log("___")
+console.log("___")
