@@ -34,6 +34,8 @@ let inf = new Car("Infinity", 2);
 inf.ccc();
 
 console.log("___")
+console.log("___")
+console.log("___")
 
 class D {
     constructor(aaa,b){
