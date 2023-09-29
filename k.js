@@ -14,8 +14,8 @@ ford.ccc()
 
 console.log("___")
 
-let mazda = new Car("Mazda", 6);
-mazda.ccc();
+let doodge = new Car("Doodge", 6);
+doodge.ccc();
 
 let toyota = new Car("Toyota", 18);
 toyota.ccc();
