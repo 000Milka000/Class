@@ -11,3 +11,6 @@ class Car {
 
 let ford = new Car("Ford", 10);
 ford.ccc()
+
+let mazda = new Car("Mazda", 6);
+mazda.ccc();
