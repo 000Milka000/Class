@@ -12,6 +12,8 @@ class Car {
 let ford = new Car("Ford", 10);
 ford.ccc()
 
+console.log("___")
+
 let mazda = new Car("Mazda", 6);
 mazda.ccc();
 
@@ -20,3 +22,4 @@ toyota.ccc();
 
 let nissan = new Car("Nissan", 11);
 nissan.ccc();
+
