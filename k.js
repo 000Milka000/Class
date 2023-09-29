@@ -14,3 +14,6 @@ ford.ccc()
 
 let mazda = new Car("Mazda", 6);
 mazda.ccc();
+
+let toyota = new Car("Toyota", 18);
+toyota.ccc();
