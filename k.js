@@ -30,9 +30,24 @@ nissan.ccc();
 
 console.log("___")
 
-let infinity = new Car("Infinity", 2);
-infinity.ccc();
+let inf = new Car("Infinity", 2);
+inf.ccc();
 
 console.log("___")
 console.log("___")
 console.log("___")
+
+class D {
+    constructor(aaa,b){
+        this.aaa = aaa,
+        this.b = b
+    }
+
+    asd(){
+        
+        console.log(this.aaa, this.b)
+    }
+}
+
+let asda = new D(2,5);
+asda.asd();
