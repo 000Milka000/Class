@@ -52,3 +52,7 @@ asda.asd();
 
 let wer = new D(6, 22);
 wer.asd();
+
+
+let werr = new D(61, 33);
+werr.asd();
