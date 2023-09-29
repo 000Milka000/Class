@@ -49,3 +49,6 @@ class D {
 
 let asda = new D(2,5);
 asda.asd();
+
+let wer = new D(6, 22);
+wer.asd();
